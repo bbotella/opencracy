@@ -23,8 +23,8 @@
             <text id="OPENCRACY" sketch:type="MSTextLayer" font-family="Wawati SC" font-size="14" font-weight="normal" line-spacing="20" fill="#424242">
                 <tspan x="50" y="192">OPENCRACY</tspan>
             </text>
-            <text id="Transparecia-pública" sketch:type="MSTextLayer" font-family="Arial Unicode MS" font-size="14" font-weight="normal" line-spacing="20" fill="#838383">
-                <tspan x="50" y="212">Transparecia pública abierta</tspan>
+            <text id="Transparència-públic" sketch:type="MSTextLayer" font-family="Arial Unicode MS" font-size="14" font-weight="normal" line-spacing="20" fill="#838383">
+                <tspan x="50" y="212">Transparència pública oberta</tspan>
             </text>
         </g>
     </g>
